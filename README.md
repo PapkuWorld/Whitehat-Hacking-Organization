@@ -4,13 +4,39 @@
 
 
 
-
-
-
-
 Professions and Employees of our Organization (100 Core Members)
 
 Chief Executive Officer 
+
+Chief Technology OFficer 
+
+Intelligence OFficer 
+
+Cyber Operator 
+
+White Hat Hacker 
+
+Blockchain Developer 
+
+Web Applications Specialist 
+
+Hardware Engineer 
+
+Cable Technician 
+
+Electricican 
+
+Software Designer 
+
+Software Architect 
+
+Cybersecurity Director 
+
+Cybersecurity Manager 
+
+Logisitics Cordinator 
+
+Army OFficer 
 
 Strategist
 
@@ -33,6 +59,8 @@ Threat Intelligence Analyst
 Malware Analyst
 
 Tool Developer
+
+
 
 Network Security Expert
 
@@ -86,7 +114,36 @@ Rust Software Engineer
 
 Python Developer 
 
+IOS Developer
+
+Android Developer
+
+Telecommunications Engineer 
+
+Cloud Arcitect 
+
+
+
 DevOps Engineer
+
+Computer Technician 
+
+Computer Systems Builder
+
+Electronics Technician 
+
+Telecommunications Technician 
+
+Lawyer
+
+Auditor 
+
+Information Security Police Officer 
+
+Security Engineer
+
+
+
 
 Scrum Master
 
