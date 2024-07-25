@@ -5,6 +5,8 @@ Chief Executive Officer
 
 Strategist
 
+Product Owner 
+
 Researcher
 
 Public Relation
@@ -77,6 +79,8 @@ Python Developer
 
 DevOps Engineer
 
+Scrum Master
+
 Chef 
 
 Charter Accountant 
@@ -91,9 +95,15 @@ Senior Data Scientist
 
 Database Administrator 
 
+
+
 Network Engineer 
 
+System Administrator
+
 Network Administrator 
+
+Quality Assurance (QA) Tester
 
 Graphic Designer 
 
