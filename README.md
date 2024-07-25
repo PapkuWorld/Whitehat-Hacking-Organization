@@ -1,4 +1,13 @@
 # Whitehat-Hacking-Organization
+
+![abstract-polygonal-hacker-with-laptop-vector-50654117](https://github.com/user-attachments/assets/4107d573-7261-47aa-b8b6-edee82c938ea)
+
+
+
+
+
+
+
 Professions and Employees of our Organization (100 Core Members)
 
 Chief Executive Officer 
